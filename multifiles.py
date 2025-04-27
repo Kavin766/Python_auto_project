@@ -20,4 +20,4 @@ def open_apps():
     print("All apps have been opened successfully!")
 
 if __name__ == "__main__":
-    open_apps()
+    open_apps()  
